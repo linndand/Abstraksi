@@ -1,0 +1,15 @@
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\bin\Debug\net6.0\Abstraksi.exe
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\bin\Debug\net6.0\Abstraksi.deps.json
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\bin\Debug\net6.0\Abstraksi.runtimeconfig.json
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\bin\Debug\net6.0\Abstraksi.dll
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\bin\Debug\net6.0\Abstraksi.pdb
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.csproj.AssemblyReference.cache
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.AssemblyInfoInputs.cache
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.AssemblyInfo.cs
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.csproj.CoreCompileInputs.cache
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.dll
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\refint\Abstraksi.dll
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.pdb
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\Abstraksi.genruntimeconfig.cache
+D:\UAY\smt02\Pemrograman\Abstraksi\Abstraksi\obj\Debug\net6.0\ref\Abstraksi.dll
